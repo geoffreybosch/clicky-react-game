@@ -1,3 +1,8 @@
+# Clicky Picture Game
+## This is a react built game where you have 12 pictures that shuffle each time one is clicked. The goal is to click on each picture only once, until you reach a score of 12.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
